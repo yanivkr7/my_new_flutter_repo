@@ -13,7 +13,7 @@ class BottomTabs extends StatelessWidget {
         items: [
           BottomNavigationBarItem(
             icon: SvgPicture.asset('assets/vectors/home-outline.svg'),
-            label: '',
+            label: 'aa',
           ),
           BottomNavigationBarItem(
             icon: SvgPicture.asset('assets/vectors/search-outline.svg'),
